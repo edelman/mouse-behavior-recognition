@@ -1,0 +1,13 @@
+#summary System Description
+
+= Introduction =
+
+H. Jhuang, E. Garrote, X. Yu, V. Khilnani, T. Poggio, A. Steele and T. Serre. [http://www.nature.com/ncomms/journal/v1/n6/pdf/ncomms1064.pdf Automated Home-Cage Behavioral Phenotyping of Mice. Nature communications], Sep., 2010.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
