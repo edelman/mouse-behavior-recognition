@@ -1,0 +1,1 @@
+We provide a general purpose system for recognizing behavior in singly housed mice. The system has been trained to recognize 8 stereotypical mouse behaviors: eat, drink, groom, hang, micro-movement, rear, rest, and walk. Given a video of a mouse in the home-cage, the system labels each frame with one of these 8 behaviors.

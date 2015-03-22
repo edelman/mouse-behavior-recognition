@@ -1,0 +1,11 @@
+# Introduction #
+
+The project is the implementation of system described in Jhuang et al. [Automated Home-Cage Behavioral Phenotyping of Mice](http://www.nature.com/ncomms/journal/v1/n6/pdf/ncomms1064.pdf). Nature communications, Sep., 2010. Given a video of mice in the home-cage, the system can be used to recognized
+
+
+# Details #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
